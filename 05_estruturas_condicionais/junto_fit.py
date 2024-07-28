@@ -1,0 +1,13 @@
+print('VOCÊ ESTÁ PARTICIPANDO DA NOSSA PROMO TREINA JUNTO')
+
+frequencia = int(input('Qual é a sua frequencia na aula?'))
+
+
+if frequencia == 21:
+    print('UHUU. AGORA VOCÊ PODE PRESENTEAR UM AMIGO OU AMIGA PARA TREINAR COM VOCÊ')
+elif frequencia < 21:
+    print('QUE BOM VER VOCÊ DE VOLTA. A PARTIR DE AGORA INICIAMOS MAIS UMA CONTAGEM DE 21 DIAS PARA A PROMO TREINA JUNTO.')
+else:
+    print("VOCÊ JA PARTICIPOU DA CAMPANHA E JA TROUXE UM AMIGO(A)!")
+
+
