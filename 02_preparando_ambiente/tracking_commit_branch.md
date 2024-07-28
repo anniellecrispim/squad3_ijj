@@ -10,7 +10,7 @@
  * Tracking Branches: Quando estamos na branch local e mudamos (comando checkout) para uma branch remota e isso seria Trancking Branch: o
    rastreamento
  * Commit: A marcação descritiva do que modificamos no código
- * Branch: Organização de outros ramos da árvore para que o ramo principal seja
+ * Branch: Organização de outros ramos da árvore para que as modificações só vá para o ramo principal sem defeitos
  
  Desafio para casa foi realizado [aqui](https://github.com/anniellecrispim/aulainstituto/blob/master/desafio%20em%20squad.py)
 
